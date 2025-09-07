@@ -1,10 +1,5 @@
 # Song Popularity Prediction
 
-A machine learning course project (Fall 2023, Ain Shams University) that predicts the popularity of songs using regression, classification, and ensemble models.  
-The project covers preprocessing, feature selection, hyperparameter tuning, and model evaluation.
-
----
-
 ## Project Overview
 The objective is to build models that predict **song popularity** based on audio and metadata features.  
 The workflow includes:
